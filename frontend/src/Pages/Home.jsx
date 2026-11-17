@@ -1,8 +1,5 @@
 
-import React from 'react';
-import fundosite from '../assets/fundosite.jpg';
-import LOGO from '../assets/LOGO.png';
-import Header from '../../Header'
+import fundosite from './fundosite.jpg';
 
 function Home() {
     return (

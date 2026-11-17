@@ -1,4 +1,4 @@
-import Header from '../../Header';
+import Header from '../Header';
 
 function Form() {
   return (
@@ -9,4 +9,6 @@ function Form() {
   );
 }
 
-export default Form;
+export default Form
+
+
